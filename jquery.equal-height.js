@@ -1,6 +1,3 @@
-// Artfinder Equal Height Children plugin
-// https://github.com/artfinder/jquery-equal-height
-// mod @eveevans
 // https://github.com/eveevans/jquery-equal-height
 // version 1.2
 

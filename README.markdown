@@ -1,9 +1,6 @@
 Equal Height Children
 =====================
 
-A jQuery plugin to make elements equal height. There are many plugins out there
-that do this, this one is ours.
-
 Using the plugin
 ----------------
 
@@ -38,6 +35,5 @@ Using the plugin
             $('[data-equal-height]').make_children_equal_height()
         );
 
-A [live example][example] is available.
-
-[example]:http://code.artfinder.com/jquery-equal-height.html
+Based on Artfinder Equal Height Children plugin
+https://github.com/artfinder/jquery-equal-height
