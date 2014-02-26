@@ -2,7 +2,7 @@
 // https://github.com/artfinder/jquery-equal-height
 // mod @eveevans
 // https://github.com/eveevans/jquery-equal-height
-// version 1.1
+// version 1.2
 
 (function($) {
 
@@ -23,11 +23,6 @@
                       tallest = h;
                   }
               });
-
-              /* en el caso especial en el que las imagenes deben ser ajustadas*/
-              if (typeof(el) != 'undefined'){
-                $children.find('img').css({'position':'absolute','bottom':'0' });
-              }
               
               $children.each( function() {
                   // $(this).css('height', tallest + 'px');
